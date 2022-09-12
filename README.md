@@ -19,3 +19,9 @@ CREATE TABLE `notas` (
   `uf` varchar(5) DEFAULT NULL,
   PRIMARY KEY (`idNotas`)
 ) ENGINE=InnoDB AUTO_INCREMENT=37 DEFAULT CHARSET=utf8mb4;
+
+3.- Pasta inicial do Projeto
+view/index.php
+
+Exemplo para iniciar projeto:
+http://localhost/care/view/index.php
